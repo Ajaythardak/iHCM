@@ -1,0 +1,6 @@
+@iHcm_HostAddress = http://localhost:5296
+
+GET {{iHcm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
